@@ -12,7 +12,7 @@
     "dash_liquid_ieBBpU": {
       "type": "dash-liquid",
       "settings": {
-        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"\/media\/cc0-videos\/flower.webm\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/511f93504a6346aa82555cbb0da1a037.mp4\"\n                  type=\"video\/mp4\">\n<\/video>"
+        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: 5%;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"\/media\/cc0-videos\/flower.webm\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/511f93504a6346aa82555cbb0da1a037.mp4\"\n                  type=\"video\/mp4\">\n<\/video>"
       }
     },
     "image_banner_4LYbFf": {
