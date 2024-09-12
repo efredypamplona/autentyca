@@ -9,8 +9,15 @@
 */
 {
   "sections": {
+    "video_app_6q6BXz": {
+      "type": "video-app",
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/1406-147169807_small.mp4"
+      }
+    },
     "image_banner_4LYbFf": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -54,6 +61,7 @@
     }
   },
   "order": [
+    "video_app_6q6BXz",
     "image_banner_4LYbFf",
     "featured_collection"
   ]
