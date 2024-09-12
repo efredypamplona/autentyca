@@ -35,9 +35,7 @@
         "heading",
         "button"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Imagenes_con_Movimiento_para_Whatsapp__Para_Bajar_a_Facebook_DESCARGAR_IMAGENES_2024.gif",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
