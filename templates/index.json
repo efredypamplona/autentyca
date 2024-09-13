@@ -40,7 +40,7 @@
     "dash_liquid_fAmwD9": {
       "type": "dash-liquid",
       "settings": {
-        "custom_liquid": "<style>\nvideo {\nwidth: 1000px; \/* Ajusta el tamaño según tus necesidades *\/\n            height: 500px; \/* Ajusta para obtener la forma elíptica deseada *\/\n            border-radius: 50% \/ 25%; \/* Forma elíptica *\/\n            display: block;\n            margin: 0 auto;\n            object-fit: cover; \/* Asegura que el video llene el contenedor *\/\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"\/media\/cc0-videos\/flower.webm\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/511f93504a6346aa82555cbb0da1a037.mp4\">\n<\/video>"
+        "custom_liquid": "<style>\nvideo {\nwidth: 1000px; \/* Ajusta el tamaño según tus necesidades *\/\n            height: 500px; \/* Ajusta para obtener la forma elíptica deseada *\/\n            border-radius: 0% 0% 60% 40%; \/* Forma elíptica *\/\n            display: block;\n            margin: 0 auto;\n            object-fit: cover; \/* Asegura que el video llene el contenedor *\/\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"\/media\/cc0-videos\/flower.webm\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/511f93504a6346aa82555cbb0da1a037.mp4\">\n<\/video>"
       }
     }
   },
